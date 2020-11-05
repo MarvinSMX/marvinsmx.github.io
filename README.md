@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Official mrvny Github Page
 
 You can use the [editor on GitHub](https://github.com/MarvinSMX/mrvey.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
